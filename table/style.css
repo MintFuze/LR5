@@ -1,0 +1,36 @@
+
+table{
+    width: 100%;
+}
+
+th, td, tr{
+    border:1px solid black ;
+   
+}
+
+
+.block1,.block2
+{
+    background: orange;
+
+    height: 120px;
+}
+
+
+
+.block3{
+    background: greenyellow;
+    height:350px
+}
+
+.block4,.block5,.block6{
+    background: blue;
+    height: 200px;
+}
+
+.block7, .block8, .block9, .block10
+{
+    background: grey;
+  
+    height: 170px;
+}
